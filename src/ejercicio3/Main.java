@@ -21,6 +21,6 @@ public class Main {
                 
             }
          System.out.println("el numero factorial del numero es: " + factorial);   
-        } else { System.out.println( "el numero es incorrecto");}
+        } else { System.out.println( "el numero es incorrecto, hacerlo bien");}
     }
 }
